@@ -1,0 +1,5 @@
+[package]
+script_dir = scripts
+description = This package extends the kerberos.log with auth_ticket, new_ticket, client_cert, client_cert_sub, client_cert_fuid, server_cert, server_cert_sub, server_cert_fuid
+tags = kerberos, lateral movement
+
